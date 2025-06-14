@@ -1,97 +1,80 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
+### **About Me**
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&animation=twinkling" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+syn154045+%F0%9F%91%8B;Next.js+Developer+%F0%9F%9A%80;I+like+Data+analisys+%E2%9C%A8;" alt="Typing SVG" />
-</div>
-
-## 🌟 **About Me**
-
-<div align="center">
-
 <table>
 <tr>
-<td width="200" align="center">
+<td width="100" align="center">
 <img src="https://skillicons.dev/icons?i=nextjs" width="100" height="100" alt="Flutter" />
 </td>
-<td width="400" align="left">
-
+<td width="500" align="left">
+  
 ### 👋 **Hi, I'm syn154045!**
-🚀 **Next.js Developer**  
+Frontend Engineer specializing in building modern web applications for SaaS products.  
+I'm passionate about creating intuitive and performant user experiences.
 
-🌍 **Location :** Japan   
-📝 **Studying :** data analytics  
-🎯 **Goal :** new experience application  
+🌍 **Location :**
+<img src="https://img.shields.io/badge/Japan-red?style=plastic" />  
 
+🌱 **Interests :**
+<img src="https://img.shields.io/badge/data_analytics-darkred?style=plastic">,
+<img src="https://img.shields.io/badge/-Pandas-150458.svg?logo=pandas&style=plastic">,
+<img src="https://img.shields.io/badge/-Rust-000000.svg?logo=rust&style=plastic" />  
+
+📫 **SNS :**
+<a href="https://x.com/philo_photo">
+  <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/philo_photo" />
+</a>
 </td>
 </tr>
 </table>
-
 </div>
 
-## 📊 **GitHub Analytics**
+---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=user&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=user&custom_title=User's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
-</div>
-
-## 🛠️ **Tech Stack**
+### **🛠️ Tech Stack**
 
 <table align="center">
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 📱  **Frontend**
-<img src="https://skillicons.dev/icons?i=nextjs,react,electron,ts,js,tailwind" />
+#### 📱  **Frontend**
+<img src="https://skillicons.dev/icons?i=nextjs,react,electron,ts,js" />
 
-### ☁️  **Backend**
-<img src="https://skillicons.dev/icons?i=fastapi,python,laravel" />
+#### ☁️  **Backend**
+<img src="https://skillicons.dev/icons?i=fastapi,python,laravel,php" />
 
-### 🗄️  **Database**
+#### 🗄️  **Database**
 <img src="https://skillicons.dev/icons?i=postgresql,sqlite,mysql" />
-
 </td>
-
 <td width="50%" align="center" valign="top">
 
-### 💻  **Infrastructure & Others**
+#### 💻  **Infra & Others**
 <img src="https://skillicons.dev/icons?i=docker,linux,ubuntu" />
 
-### 🔧  **Development Tools**
+#### 🔧  **Dev Tools**
 <img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
 
-### 🌱  **now learning...**
+#### 🌱  **now learning...**
 <img src="https://skillicons.dev/icons?i=cs,go,r,rust" />
-
 </td>
 </tr>
 </table>
 
+---
 
+### **📊 GitHub Stats**
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" />
+  <img src="https://github-readme-stats.vercel.app/api?username=syn154045&theme=nord&count_private=true&show_icons=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syn154045&theme=nord&layout=compact" height="180" alt="language graph" />
 </div>
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-  
-  **⭐ From [synortnihe](https://github.com/user) with ❤️**
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syn154045&theme=nord&radius=16&area=true&hide_title=true" alt="activity graph" />
 </div>
 
 ---
-## Profile
 
+### github actions
 
 <p align="left">
   <picture>
@@ -120,4 +103,3 @@
   <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/syn154045/syn154045/output-3d-contrib/day.svg" />
 </picture>
-
