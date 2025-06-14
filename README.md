@@ -1,13 +1,6 @@
 ### **About Me**
 
-<div align="center">
-<table>
-<tr>
-<td width="100" align="center">
-<img src="https://skillicons.dev/icons?i=nextjs" width="100" height="100" alt="Flutter" />
-</td>
-<td width="500" align="left">
-  
+<div align="center">  
 ### 👋 **Hi, I'm syn154045!**
 Frontend Engineer specializing in building modern web applications for SaaS products.  
 I'm passionate about creating intuitive and performant user experiences.
@@ -24,9 +17,6 @@ I'm passionate about creating intuitive and performant user experiences.
 <a href="https://x.com/philo_photo">
   <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/philo_photo" />
 </a>
-</td>
-</tr>
-</table>
 </div>
 
 ---
