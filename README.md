@@ -1,23 +1,22 @@
-### **About Me**
+### **🦜 About Me**
 
-<div align="center">  
-### 👋 **Hi, I'm syn154045!**
+#### **I'm syn154045**
+
 Frontend Engineer specializing in building modern web applications for SaaS products.  
 I'm passionate about creating intuitive and performant user experiences.
 
 🌍 **Location :**
-<img src="https://img.shields.io/badge/Japan-red?style=plastic" />  
+<img src="https://img.shields.io/badge/Japan-red?style=plastic" />
 
 🌱 **Interests :**
 <img src="https://img.shields.io/badge/data_analytics-darkred?style=plastic">,
 <img src="https://img.shields.io/badge/-Pandas-150458.svg?logo=pandas&style=plastic">,
-<img src="https://img.shields.io/badge/-Rust-000000.svg?logo=rust&style=plastic" />  
+<img src="https://img.shields.io/badge/-Rust-000000.svg?logo=rust&style=plastic" />
 
 📫 **SNS :**
 <a href="https://x.com/philo_photo">
   <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/philo_photo" />
 </a>
-</div>
 
 ---
 
@@ -52,7 +51,7 @@ I'm passionate about creating intuitive and performant user experiences.
 
 ---
 
-### **📊 GitHub Stats**
+### **📈 GitHub Stats**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=syn154045&theme=nord&count_private=true&show_icons=true" height="180" alt="stats graph" />
@@ -64,32 +63,33 @@ I'm passionate about creating intuitive and performant user experiences.
 
 ---
 
-### github actions
-
-<p align="left">
-  <picture>
-        <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.base.svg" width="400" />
-	<source media="(prefers-color-scheme: light)" srcset="output/metrics.base.svg" width="400" />
-	<img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/syn154045/syn154045/output-3d-contrib/day.svg" />
-  </picture>
-  <picture>
-   	<source media="(prefers-color-scheme: dark)"  srcset="output/details.svg" width="400" />
-	<source media="(prefers-color-scheme: light)" srcset="output/details.svg" width="400" />
-	<img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/syn154045/syn154045/output-3d-contrib/day.svg" />
-  </picture>
-</p>
-
-<p align="left" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="profile-3d-contrib/profile-night-rainbow.svg" width="700" />
-	  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg" width="700" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/syn154045/syn154045/output-3d-contrib/day.svg" />
-	</picture>
-</p>　
+### **🦖 github actions**
 
 <p align="left">
 <picture>
-  <source media="(prefers-color-scheme: light)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
-  <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
- <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/syn154045/syn154045/output-3d-contrib/day.svg" />
+<source media="(prefers-color-scheme: dark)" srcset="output/metrics.base.svg" width="400" />
+<source media="(prefers-color-scheme: light)" srcset="output/metrics.base.svg" width="400" />
+<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/syn154045/syn154045/output-3d-contrib/day.svg" />
+</picture>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="output/details.svg" width="400" />
+<source media="(prefers-color-scheme: light)" srcset="output/details.svg" width="400" />
+<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/syn154045/syn154045/output-3d-contrib/day.svg" />
+</picture>
+</p>
+
+<p align="left" >
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" width="700" />
+<source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg" width="700" />
+<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/syn154045/syn154045/output-3d-contrib/day.svg" />
+</picture>
+</p>
+
+<p align="left">
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
+<source media="(prefers-color-scheme: dark)" srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
+<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/syn154045/syn154045/output-3d-contrib/day.svg" />
 </picture>
